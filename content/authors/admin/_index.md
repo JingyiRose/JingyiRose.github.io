@@ -118,15 +118,15 @@ skills:
       - name: Muay Thai
         description: ''
         percent: 100
-        icon: 🥊
+        icon: "custom/boxing-glove"
       - name: Food
         description: ''
         percent: 100
-        icon: 🍜
-      - name: Traveling
+        icon: "custom/steaming-bowl"
+      - name: Travel
         description: ''
         percent: 100
-        icon: 🌆
+        icon: "custom/sunrise-over-mountains"
 
 
 languages:
