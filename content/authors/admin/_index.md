@@ -126,7 +126,7 @@ skills:
       - name: Traveling
         description: ''
         percent: 100
-        icon: :city_sunrise:
+        icon: 🌆
 
 
 languages:
