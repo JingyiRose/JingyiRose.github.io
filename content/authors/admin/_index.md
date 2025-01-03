@@ -30,7 +30,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jingyi.liu@gmail.com'
+    url: 'mailto:jingyi.liu@princeton.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/JingyiRose
