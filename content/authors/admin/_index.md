@@ -81,7 +81,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2019-06-01
-    date_end: 2020-08-30
+    date_end: 2019-08-30
     summary: |
       Responsibilities include:
       - Worked on Android development in a product team and customized content creation page
