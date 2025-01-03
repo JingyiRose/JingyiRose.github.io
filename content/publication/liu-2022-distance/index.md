@@ -2,7 +2,7 @@
 title: Distance Profiles of Optimal RNA Foldings
 authors:
 - Jingyi Liu
-- I Duan
+- Isabel Duan
 - Santi Santichaivekin
 - Ran Libeskind-Hadas
 date: '2022-01-01'
