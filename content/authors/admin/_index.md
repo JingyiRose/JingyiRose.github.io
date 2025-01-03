@@ -80,7 +80,7 @@ work:
     company_name: Facebook
     company_url: ''
     company_logo: ''
-date_start: 2016-01-01
+    date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
