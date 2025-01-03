@@ -140,7 +140,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+# awards:
   # - title: Blockchain Fundamentals
   #   certificate_url: https://www.datacamp.com
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
