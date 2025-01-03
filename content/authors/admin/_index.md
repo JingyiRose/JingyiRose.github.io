@@ -49,7 +49,7 @@ education:
   - area: 3rd year PhD Student in Theoretical Computer Science
     institution: Princeton University
     date_start: 2022-09-01
-    date_end: Current
+    date_end: ''
     summary: |
 
       Courses included:
