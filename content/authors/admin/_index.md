@@ -80,18 +80,18 @@ work:
     company_name: Facebook
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-06-01
+    date_end: 2020-08-30
     summary: |
       Responsibilities include:
       - Worked on Android development in a product team and customized content creation page
       - Implemented paginated data fetching using GraphQL and refactored a surface view
   - position: Software Engineer
-    company_name: X
+    company_name: Mininglamp Technology
     company_url: ''
     company_logo: ''
-    date_start: 2020-09
-    date_end: 2020-12
+    date_start: 2020-09-01
+    date_end: 2020-12-01
     summary: |
       Responsibilities include:
       - Created a microservice to manage the services the company provides to its clients
