@@ -115,7 +115,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Muay Thai
+      - name: Muay-Thai
         # description: ''
         # percent: 100
         icon: "custom/boxing-glove"
