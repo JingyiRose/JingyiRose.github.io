@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 刘婧怡
+title: Jingyi Liu (刘婧怡)
 
 # Name pronunciation (optional)
-name_pronunciation: Jingyi Liu
+# name_pronunciation: Jingyi Liu
 
 # Full name (for SEO)
 first_name: Jingyi
 last_name: Liu
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -46,7 +46,7 @@ interests:
   - Online Learning and Equilibrium Computation
 
 education:
-  - area: 3rd year PhD Student in Theoretical Computer Science
+  - area: PhD Student in Theoretical Computer Science
     institution: Princeton University
     date_start: 2022-09-01
     date_end: ''
