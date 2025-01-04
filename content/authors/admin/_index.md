@@ -117,16 +117,16 @@ skills:
     items:
       - name: Muay-Thai
         # description: ''
-        # percent: 100
-        icon: "custom/boxing-glove"
+        percent: 100
+        icon: 'custom/boxing-glove'
       - name: Food
         # description: ''
-        # percent: 100
-        icon: "custom/steaming-bowl"
+        percent: 100
+        icon: 'custom/steaming-bowl'
       - name: Travel
         # description: ''
-        # percent: 100
-        icon: "custom/sunrise-over-mountains"
+        percent: 100
+        icon: 'custom/sunrise-over-mountains'
 
 
 languages:
