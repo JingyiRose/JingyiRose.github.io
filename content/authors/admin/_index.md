@@ -156,5 +156,5 @@ languages:
 
 ## About Me
 
-I am a 3rd year PhD student studying Theoretical Computer Science at Princeton University. I am fortunate to be co-advised by [Professor Mark Braverman](https://mbraverm.princeton.edu/) and [Professor Matt Weinberg](https://www.cs.princeton.edu/~smattw/).  I am broadly interested in algorithmic game theory and online learning. Recently I am interested in investigating the equilibrium achieved by no-regret agents in games and markets. My other works look at incentives in blockchain protocols.
+I am a 4th year PhD student studying Theoretical Computer Science at Princeton University. I am fortunate to be co-advised by [Professor Mark Braverman](https://mbraverm.princeton.edu/) and [Professor Matt Weinberg](https://www.cs.princeton.edu/~smattw/).  I am broadly interested in algorithmic game theory and online learning. Recently, I am interested in how learning agents should behave in economic settings where decisions must respect long-run constraints and where the right notion of performance depends on structured benchmark classes that capture realistic behavior. I am also interested in multi-agent interactions and in what equilibrium notions are attainable. 
 
